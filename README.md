@@ -5,7 +5,7 @@
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
-![Banner](https://raw.githubusercontent.com/iamehsandvr/ProProfile/main/Images/ProProfile_DEDSEC.png)
+![Banner](https://raw.githubusercontent.com/iamehsandvr/iamehsandvr/main/ehsandavari-dedsec_2.png)
 
 Here are some ideas to get you started:
 
